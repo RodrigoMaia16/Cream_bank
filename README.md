@@ -4,12 +4,6 @@ Um aplicativo de um banco, onde você poderá abrir e entrar em sua conta, reali
 
 <br>
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
-<br>
-
 # :hammer: Funcionalidades do projeto
 - Funcionalidade 1 - Abrir conta e login: Você poderá criar uma conta e logar nela, tendo acesso aos seus dados, como saldo e extrato.
 - Funcionalidade 2 - Botão “Transferir”: Você poderá realizar transferências da sua conta para outra, apenas com o número da conta do outro usuário.
